@@ -1,0 +1,24 @@
+#navbarNavAltMarkup {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: nowrap;
+}
+
+.container-fluid {
+    display: flex;
+    margin: 0;
+}
+.card-img-top {
+    max-width: 90%;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100px;
+}
+
+.footer__p {
+    color: aliceblue;
+}
